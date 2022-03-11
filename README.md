@@ -1,4 +1,5 @@
-# mindthegap
+# All below contents to be updated during Milestone 4
+# mindthegap 
 
 This repository contains our work as it relates to an interactive dashboard built with [Dash](https://plotly.com/dash/) and [Altair](https://altair-viz.github.io/), for purposes of analyzing data collected by the [Gapminder](https://www.gapminder.org/) organization.
 
